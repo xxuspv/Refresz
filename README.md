@@ -3,7 +3,8 @@
 **If u want me to drop other tools like Rolimons Auto Har, Roblox Phishing or a Triplehook version of this cookie refresher get me to 12 ⭐ on this project.**
 
 # Preview
-![image](https://github.com/Terminatedzz/Roblox-Cookie-Refresher/assets/131369904/8b0f9181-22b9-4a31-9061-12138d87bfbc)
+![image](https://github.com/Terminatedzz/Roblox-Cookie-Refresher/assets/131369904/8c363d94-4d8e-41c0-867b-b7e0cd20d84d)
+
 
 
 # tutorial

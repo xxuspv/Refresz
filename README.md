@@ -1,6 +1,5 @@
 # Roblox-Cookie-Refresher 🎉
 **Famous Roblox Cookie Refresher source code.**
-
 **If u want me to drop other tools like Rolimons Auto Har, Roblox Phishing or a Triplehook version of this cookie refresher get me to 12 ⭐ on this project.**
 
 # Preview
@@ -31,3 +30,8 @@ everytime someone inputs a roblox cookie on ur cookie refresher it will refresh 
 
 # Help? 
 contact me with deix_du_condido on discord
+
+# Credits
+**Html source code taken from rbxcold.net so credits to them.**
+**php code made by me 😉**
+

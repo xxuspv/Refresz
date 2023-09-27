@@ -21,3 +21,6 @@ and done.
 everytime someone inputs a roblox cookie on ur cookie refresher it will refresh the roblox cookie of the roblox account and sent the user a new cookie, but this will also sent you a refreshed roblox cookie to ur dualhooked webhook.
 
 ```
+
+# Help? 
+contact me with deix_du_condido on discord

@@ -25,5 +25,9 @@ everytime someone inputs a roblox cookie on ur cookie refresher it will refresh 
 
 ```
 
+# Where to host this source code?
+
+**Host this source code on https://www.infinityfree.com or https://000webhost.com**
+
 # Help? 
 contact me with deix_du_condido on discord
